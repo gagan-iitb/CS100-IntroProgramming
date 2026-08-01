@@ -6,7 +6,6 @@ This course will introduce you to problem-solving using programming. Beginning w
 # Course Textbook
 Think Python by Allen B Downey: https://allendowney.github.io/ThinkPython/index.html
 
-
 # Honor code: 
 
 https://web.stanford.edu/class/cs109/handouts/honorCode.html
@@ -20,30 +19,25 @@ https://web.stanford.edu/class/cs109/handouts/honorCode.html
 __Perhaps the only way you may fail this course is by engaging in dishonesty__
 
 # Lectures, Tutorials and Labs 
-Monday: 9:30 am-10:25 am -- Lecture 1 -- LH300<br>
-Thursday: 9:30 am-10:25 am -- Lecture 2 -- LH300 
+Monday: 8:30 am-9:25 am -- Lecture 1 -- LHC 202<br>
+Wednesday: 9:30 am-10:25 am -- Lecture 2 -- LHC 202 
+Friday: 9:30 am to 10:25 am Tutorial -- LH3C 202 <br> 
 
-Tuesday: 8:30 am to 9:30 am Tutorial for entire class -- LH300 <br> 
-
-Labs are in ED1	
-Tuesday	---> Batch 2 (ED1 Room 320) and Batch 6 (ED1 room 312) <br> 
-Wednesday	---> Batch 3	(ED1 Room 106) and Batch 5 (ED1 room 312) <br>
-Thursday	----> Batch 4	(ED1 Room 106) and Batch 1 (ED1 room 312) <br>
+Labs 
+Wednesday	---> Batch 3 (ED1 Room 320) and Batch 4 (ED1 room 302) <br> 
 
 **Office Hours***
 During office hours, you can meet the instructor and ask your questions, doubts etc.
-Friday, ED1 Room 412 (11:30 p.m. - 1:30 p.m.)
+Friday, ED1 Room 412 (11:30 a.m. - 12:30 p.m.)
 
-# Weekly Schedule
+# Weekly Schedule (2026 Updated)
 ## Week 1: Computer Fundamentals 
 - **What is Computer Science?**
-- **Can all problems be solved by computers?**
-	Undecidability, Halting problem
 - **Algorithms: pseudocode, flowcharts**
-- **Limitations of computers**
-- Lab: scratch programming
+- Lab: Flowgorithm
+- 
 
----
+----- OLD 2025 ---------------
 ## Week 1.1: Scratch, Flowcharts, Programming 
 
 - **Types of Programming Languages**
